@@ -53,9 +53,9 @@
         "main": true,
         "title": "App Maker 360° - App Builder & Progressive Web Apps Company!",
         "meta_descr": "Grow your business with our mobile marketing solutions. With our App Maker platform not only can you create custom Android, iOS plus Progressive Web App",
-        "header_custom": "",
+        "header_custom": "<META NAME=\"keywords\" CONTENT=\"app maker, app builder, app creator, pwa, progressive web apps\">\n<META NAME=\"URL\" CONTENT=\"https://appmaker360.com\">\n<META NAME=\"copyright\" CONTENT=\"&copy; AppMaker360.com.com - App Builder & Progressive Web Apps Company!\">\n<META NAME=\"content-type\" CONTENT=\"App Maker\">\n<META NAME=\"distribution\" content=\"Global\">\n<META NAME=\"language\" content=\"en-us\">\n<META NAME=\"rating\" content=\"General\">\n<META NAME=\"country\" content=\"United States\">\n<META NAME=\"expires\" content=\"Never\">\n<META NAME=\"robots\" content=\"All, Index, Follow\">",
         "footer_custom": "",
-        "html_before": "<META NAME=\"keywords\" CONTENT=\"app maker, app builder, app creator, pwa, progressive web apps\">\n<META NAME=\"URL\" CONTENT=\"https://appmaker360.com\">\n<META NAME=\"copyright\" CONTENT=\"&copy; AppMaker360.com.com - App Builder & Progressive Web Apps Company!\">\n<META NAME=\"content-type\" CONTENT=\"App Maker\">\n<META NAME=\"distribution\" content=\"Global\">\n<META NAME=\"language\" content=\"en-us\">\n<META NAME=\"rating\" content=\"General\">\n<META NAME=\"country\" content=\"United States\">\n<META NAME=\"expires\" content=\"Never\">\n<META NAME=\"robots\" content=\"All, Index, Follow\">"
+        "html_before": ""
       },
       "components": [
         {
