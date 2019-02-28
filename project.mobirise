@@ -39,7 +39,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/app-maker-37x37.png",
+    "favicon": "@PROJECT_PATH@/assets/images/app-maker-16x16-1.png",
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "google-analytics": "",
