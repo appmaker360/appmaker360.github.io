@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "App-Maker",
-    "currentPage": "index.html",
+    "currentPage": "privacy-policy.html",
     "theme": {
       "name": "strategyamp",
       "title": "StrategyAMP",
@@ -1375,7 +1375,7 @@
         }
       ]
     },
-    "page2.html": {
+    "terms-of-service.html": {
       "settings": {
         "title": "Terms-of-Service",
         "order": 1
