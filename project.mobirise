@@ -6,7 +6,7 @@
       "name": "strategyamp",
       "title": "StrategyAMP",
       "styling": {
-        "primaryColor": "#1e73be",
+        "primaryColor": "#ee3668",
         "secondaryColor": "#ca4336",
         "successColor": "#1e73be",
         "infoColor": "#e96188",
@@ -28,7 +28,8 @@
       "additionalSetColors": [
         "#1e73be",
         "#ff6600",
-        "#293f7e"
+        "#293f7e",
+        "#ee3668"
       ]
     },
     "path": "@PROJECT_PATH@",
